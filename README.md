@@ -27,6 +27,12 @@ Here based on operation either memory stored or loaded or simply skipped.
 ## Write back
 Here values are written back to the register bank.
 
+## Forwarding unit
+It is used to remove data hazards in our risc cpu.
+
+## hazard detection unit
+It is used to stall the pipe line when load use hazard occurs
+
 ## Entire layout
 
 ## Timing report
