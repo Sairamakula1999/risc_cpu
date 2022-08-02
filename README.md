@@ -9,8 +9,8 @@ A 32-bit RISC CPU design provides higher performance capable of executing the ar
 - [Instruction fetch](https://github.com/Sairamakula1999/risc_cpu/blob/main/README.md#instruction%20fetch)
 - [Instruction decode](https://github.com/Sairamakula1999/risc_cpu/blob/main/README.md#instruction%20decode)
 - [Execution](https://github.com/Sairamakula1999/risc_cpu/blob/main/README.md#execution)
-- [Memory](https://github.com/Sairamakula1999/risc_cpu/blob/main/README.md#instruction%20fetch)
-- [Write back](https://github.com/Sairamakula1999/risc_cpu/blob/main/README.md#instruction%20fetch)
+- [Memory](https://github.com/Sairamakula1999/risc_cpu/blob/main/README.md#memory)
+- [Write back](https://github.com/Sairamakula1999/risc_cpu/blob/main/README.md#write%20back)
 
 ## Instruction fetch
 Here instruction is fetched i.e. by using program counter has it contains address of next instruction, use it and fetch instruction from instruction memory. For initial case global reset is given to all stages. So, default state is loaded with help of these.
