@@ -53,5 +53,5 @@ Here values are written back to the register bank.
 ## Power report
 
 ## References
-
+Computer Organization and Design -The Hardware/Software Interface, David A. Patterson, John L. Hennessy
 
