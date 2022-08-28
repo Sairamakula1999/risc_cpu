@@ -48,10 +48,6 @@ Here values are written back to the register bank.
 <img src="images/1.png" width =1000 height= 500>
 </p>
 
-## Timing report
-
-## Power report
-
 ## References
 Computer Organization and Design -The Hardware/Software Interface, David A. Patterson, John L. Hennessy
 
