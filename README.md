@@ -26,7 +26,7 @@ Here instruction is decoded i.e instruction obtained from instruction memory is 
 </p>
 
 ## Execution
-Here based on function decoded in previous stage control signals are used and required operation is performed. Here ALU consists of koggestone adder/subtractor, booth multiplier. If any branching condition happens then it is branched accordingly. So, next two operations are should be choosen in a way(by compiler or us) that looping wont affect the values of the performed operations even after execution. for warding unit is also present here to avoid data hazards but load use hazard is still needs to be added by adding stall feature in existing design.
+Here based on function decoded in previous stage control signals are used and required operation is performed. Here ALU consists of koggestone adder/subtractor, booth multiplier. If any branching condition happens then it is branched accordingly. So, next two operations are should be choosen in a way(by compiler or us) that looping wont affect the values of the performed operations even after execution. forwarding unit is also present here to avoid data hazards but load use hazard is still needs to be added by adding stall feature in existing design.
 <p align="center">
 <img src="images/8.png" width =800 height= 400>
 </p>
